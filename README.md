@@ -1,4 +1,4 @@
-# PEER-Sequential
+# PEER NGA West2-Sequential
 **Mainshock–aftershock sequence simulation via latent space encoding of generative adversarial networks**<br>
 *Zekun Xu, Jiaxu Shen, Huayong Wu, Jun Chen(CA)*
 
