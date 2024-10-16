@@ -1,1 +1,5 @@
 # PEER-Sequential
+**Mainshock–aftershock sequence simulation via latent space encoding of generative adversarial networks**<br>
+*Zekun Xu, Jiaxu Shen, Huayong Wu, Jun Chen(CA)*
+
+>**Abstract:** Aftershocks (ASs) following strong mainshocks (MSs) can exacerbate structural damage or lead to collapse. However, the scarcity of recorded data necessitates reliance on artificial sequences, which have difficulty in characterizing the time‐frequency correlation between MSs and ASs. This study innovatively converts the AS time history prediction into an image translation task, exploiting the invertible transformation between accelerograms and time‐frequency representations. An encoder–decoder neural network is developed to encode the MS information into the latent space of a pre‐trained generative adversarial network, enabling accurate AS predictions through the decoder. The integration of seismic parameters further improves the AS prediction performance. Comparative analyses demonstrate that the proposed method outperforms the traditional ones on accuracy and robustness and reproduces the non‐stationarity of ASs.
